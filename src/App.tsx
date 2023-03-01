@@ -17,7 +17,7 @@ const App: Component = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solid the proper way - and more
+          Learn Solid the proper way - and more - added from the ipad
         </a>
       </header>
     </div>
